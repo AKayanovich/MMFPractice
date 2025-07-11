@@ -2,8 +2,6 @@
 
 #include "myStack.h"
 
-#include "myStack.h"
-
 template <typename T>
 class QueueTwoStacks {
 private:
