@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\forward_list12">
+      <UniqueIdentifier>{7f6c6db4-b925-4afe-8156-932164203da4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\queue11">
+      <UniqueIdentifier>{84f17ac0-9cb3-4048-9fc1-ffbe1796d75f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\binarySearch9">
+      <UniqueIdentifier>{b7682aa7-c449-49f2-9dcd-e58a265f54e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\binaryTree12">
+      <UniqueIdentifier>{8c1bd1e3-f58e-4f5f-b589-eac2a1fbae04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\recursion22">
+      <UniqueIdentifier>{e3c36b33-a410-474e-94e5-fefd8aa233be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\challenge1">
+      <UniqueIdentifier>{071800d6-c3e7-402a-b2b6-b1d4578b60e6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MMFPractice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="forward_list.cpp">
+      <Filter>Header Files\forward_list12</Filter>
+    </ClCompile>
+    <ClCompile Include="allTasks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch.cpp">
+      <Filter>Header Files\binarySearch9</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>Header Files\binaryTree12</Filter>
+    </ClCompile>
+    <ClCompile Include="BST.cpp">
+      <Filter>Header Files\binaryTree12</Filter>
+    </ClCompile>
+    <ClCompile Include="MinefieldPathfinder.cpp">
+      <Filter>Header Files\binaryTree12</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="forward_list.h">
+      <Filter>Header Files\forward_list12</Filter>
+    </ClInclude>
+    <ClInclude Include="allTasks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="myQueue.h">
+      <Filter>Header Files\queue11</Filter>
+    </ClInclude>
+    <ClInclude Include="myStack.h">
+      <Filter>Header Files\queue11</Filter>
+    </ClInclude>
+    <ClInclude Include="binarySearch.h">
+      <Filter>Header Files\binarySearch9</Filter>
+    </ClInclude>
+    <ClInclude Include="Position.h">
+      <Filter>Header Files\binaryTree12</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Header Files\binaryTree12</Filter>
+    </ClInclude>
+    <ClInclude Include="BST.h">
+      <Filter>Header Files\binaryTree12</Filter>
+    </ClInclude>
+    <ClInclude Include="MinefieldPathfinder.h">
+      <Filter>Header Files\binaryTree12</Filter>
+    </ClInclude>
+    <ClInclude Include="tangent22.h">
+      <Filter>Header Files\recursion22</Filter>
+    </ClInclude>
+    <ClInclude Include="digit-word.h">
+      <Filter>Header Files\challenge1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
